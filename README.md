@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td style="width: 500px;">
-    <img class="img"   src="https://github-readme-stats.vercel.app/api/wakatime?username=7c70fc08-b57a-4ac0-9fff-536a604fae47&theme=synthwave" /> 
+    <img class="img"   src="https://github-readme-stats.vercel.app/api/wakatime?username=deividepaulino&theme=synthwave" /> 
 </td>
 </tr>
 </tbody>
